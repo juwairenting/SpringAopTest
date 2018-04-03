@@ -8,6 +8,7 @@ import org.springframework.stereotype.Component;
 import java.util.Arrays;
 import java.util.List;
 
+//这是一个切面
 @Aspect
 @Component
 public class LoggingAspect {
